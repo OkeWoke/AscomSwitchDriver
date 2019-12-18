@@ -1,6 +1,7 @@
 # AscomSwitchDriver
-Simple ascom driver for a cheap relay switch board,
-configured for 2 channel relay board.
+Simple ascom driver for a cheap relay switch board, configured for 2 channel relay board.
+Made using the ascom switch driver template.
+
 Requires modifying .iss script, which is then compiled and ran in inno to generate the installer exe
 
 
